@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Ihsan 👋 CISSP | AI Governance, Risk & Compliance
 
-<!--
-**Ihsan-Aziz-CISSP/Ihsan-Aziz-CISSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I help organizations adopt Generative AI safely using **NIST AI RMF 1.0**, **ISO/IEC 42001**, and **OWASP Top 10 for LLMs**.
 
-Here are some ideas to get you started:
+**9+ years GRC**: NIST 800-53, RMF, ISO 27001, HIPAA, SOC 2, FedRAMP, PCI DSS  
+**Currently**: Building AI GRC programs for healthcare and gov cloud  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Featured Work
+📌 **[AI GRC Portfolio](https://github.com/kamal-midi-cissp/ai-grc-portfolio)** – NIST AI RMF templates, AI Acceptable Use Policy, LLM vendor questionnaire, HIPAA red-team report
+
+### 🛡️ Core Skills
+`NIST AI RMF` `ISO 42001` `LLM Security` `Prompt Injection` `AI Risk Assessment` `FedRAMP` `HIPAA` `TPRM` `Model Risk Management`
+
+### 📫 Open to Roles
+**AI GRC Manager | AI Compliance Officer | ISO – AI Governance**  
+Sacramento, CA | Remote | ihsanaziz@email.com | (https://www.linkedin.com/in/ihsanaziz/)
+
+---
+⭐ Star my AI GRC repo if you find it useful for your NIST AI RMF implementation
